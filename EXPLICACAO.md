@@ -1,0 +1,1 @@
+Esse é um código que mostra uma urna, recebendo como entrada 5 candidatos e seus respectivos numeros. Depois disso temos uma votação, onde são contados os votos válidos, votos em brancos e votos nulo. No final temos a quantidade de votos que cada um recebeu e quem venceu a votação.
